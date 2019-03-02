@@ -1,120 +1,444 @@
-- name: EuroSTAR 2015
-  location: Maastricht, Netherlands
-  dates: "November 2-5, 2015"
-  url: http://conference.eurostarsoftwaretesting.com/
-  twitter: esconfs
+- name: Testing in Context Conference Australia (TiCCA) 19
+  location: Melbourne, Australia
+  dates: "February 28 – March 1, 2019"
+  url: https://www.eventbrite.com/e/ticca19-testing-in-context-conference-australia-tickets-49326349439?aff=testingconferences
+  twitter: AST_News
+  status: Registration is Open
 
-- name: TestBashNY
-  location: New York, NY
-  dates: "November 5-6, 2015"
-  url: http://www.ministryoftesting.com/training-events/testbashny/
-  twitter: ministryoftest
-
-- name: Agile Testing Days 2015
-  location: Potsdam, Germany
-  dates: "November 9-12, 2015"
-  url: http://www.agiletestingdays.com/
-  twitter: AgileTD
-
-- name: GTAC 2015
-  location: Cambridge, MA, USA
-  dates: "November 10-11, 2015"
-  url: https://developers.google.com/google-test-automation-conference/
-  twitter: googletesting
-
-- name: Let's Test South Africa
-  location: Magaliesberg, South Africa
-  dates: "November 15–17, 2015"
-  url: http://lets-test.com/?page_id=4070
-  twitter: LetsTest_Conf
-
-- name: BCS SIGiST Winter 2015
+- name: UKSTAR Software Testing Conference 2019
   location: London, UK
-  dates: "December 2nd, 2015"
-  url: http://www.bcs.org/category/9264
-  twitter: SIGiST
+  dates: "March 11-12, 2019"
+  url: https://ukstar.eurostarsoftwaretesting.com/?utm_source=testingconferences
+  twitter: ukstarconfs
 
-- name: ThinkTest 2015
-  location: New Delhi, India
-  dates: "December 4th, 2015"
-  url: http://www.confengine.com/thinktest-2015
-  twitter: smita_qazone
-  
-- name: Software Quality Days 2016
-  location: Vienna, Austria
-  dates: "January 18-21, 2016"
-  url: http://2016.software-quality-days.com/en/
-  twitter: swqd
+- name: Swiss Testing Day 2019
+  location: Zurich, Switzerland
+  dates: "March 20, 2019"
+  url: http://swisstestingday.ch/?utm_source=testingconferences
+  twitter: SwissTesting
 
-- name: European Testing Conference 2016
-  location: Bucharest, Romania
-  dates: "February 11-12, 2016"
-  url: http://europeantestingconference.eu/
-  twitter: EuroTestingConf
-  
-- name: CopenhagenContext 2016
-  location: Copenhagen, Denmark
-  dates: "February 25-26, 2016"
-  url: http://copenhagencontext.com/
-  twitter: CPHcontext
+- name: SQA Days EU - 1
+  location: Riga, Latvia
+  dates: "March 22-23, 2019"
+  url: https://sqadays.eu/en/index?utm_source=testingconferences
+  twitter: sqadays
+  status: Registration is Open
 
-- name: TISQA 2016
-  location: Chapel Hill, NC, USA
-  dates: "March 2-3, 2016"
-  url: http://tisqa-rtp.squarespace.com/
-  twitter: TISQA_RTP
+- name: Spanish Test Academy Barcelona 2019
+  location: Barcelona, Spain
+  dates: "March 27, 2019"
+  url: http://www.spanishtestacademy.com/barcelona/index.html?utm_source=testingconferences
+  twitter: expoQA
+  status: Registration is Open
 
-- name: TestBash 2016
-  location: Brighton, England
-  dates: "March 10-11, 2016"
-  url: http://www.ministryoftesting.com/training-events/testbash-brighton-2016/
-  twitter: ministryoftest
+- name: STPCon Spring 2019
+  location: San Francisco, CA, USA
+  dates: "April 1-4, 2019"
+  url: https://www.stpcon.com/?utm_source=testingconferences
+  twitter: SoftwareTestPro
 
-- name: Mobile Dev + Test 2016
-  location: San Deigo, CA, USA
-  dates: "April 17-22, 2016"
-  url: http://mobiledevtest.techwell.com/
-  twitter: TechWell
-
-- name: QUEST 2016
+- name: The QA Financial Forum Chicago 2019
   location: Chicago, IL, USA
-  dates: "April 18-22, 2016"
-  url: http://www.qaiquest.org/2016/index.html
+  dates: "April 2, 2019"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-chicago-2019?utm_source=testingconferences
+  status: Registration is open
+
+- name: TestBash Essentials 2019
+  location: Brighton, UK
+  dates: "April 3, 2019"
+  url: https://ti.to/mot/testbash-brighton-2019?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is open
+
+- name: TestBash Brighton 2019
+  location: Brighton, UK
+  dates: "April 4-5, 2019"
+  url: https://ti.to/mot/testbash-brighton-2019?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is open
+
+- name: ConSelenium 2019
+  location: Łódź, PL
+  dates: "April 4-5, 2019"
+  url: http://conselenium.pl/?utm_source=testingconferences
+  status: Registration is Open
+
+- name: CukenFest London
+  location: London, UK
+  dates: "April 4-5, 2019"
+  url: http://cukenfest.cucumber.io/?utm_source=testingconferences
+  twitter: cukenfest
+  status: CFP is Open
+
+- name: IEEE International Conference on AI Testing 2019
+  location: San Francisco Bay Area, CA, USA
+  dates: "April 4-9, 2019"
+  url: http://www.ieeeaitests.com/?utm_source=testingconferences
+  twitter: ieeeai
+  status: CFP is Open
+
+- name: Journée Française des tests logiciels (JFTL) 2019
+  location: Montrouge, France
+  dates: "April 8-9, 2019"
+  url: http://www.cftl.fr/JFTL?utm_source=testingconferences
+  status: Registration is Open
+
+- name: Spanish Test Academy Valencia 2019
+  location: Valencia, Spain
+  dates: "April 10, 2019"
+  url: http://www.spanishtestacademy.com/valencia/index.html?utm_source=testingconferences
+  twitter: expoQA
+  status: Registration is Open
+
+- name: Testing Summit 2019
+  location: London, UK
+  dates: "April 11, 2019"
+  url: http://conference.unicom.co.uk/testing-summit/2019/april/london/?utm_source=testingconferences
+  status: Registration is open
+
+- name: QA Challenge Accepted 5.0
+  location: Sofia, Bulgaria
+  dates: "April 13, 2019"
+  url: https://www.qachallengeaccepted.com/?utm_source=testingconferences
+  twitter: qachallenge
+
+- name: TestIstanbul 2019
+  location: Istanbul, Turkey
+  dates: "April 16, 2019"
+  url: https://testistanbul.org/?utm_source=testingconferences
+  twitter: testistanbul
+  status: Registration is open
+
+- name: SeleniumConf (SeConf) Tokyo 2019
+  location: Funabori, Tokyo, Japan
+  dates: "April 18-19, 2019"
+  url: https://conf.selenium.jp/?utm_source=testingconferences
+  twitter: seleniumconf
+  status: Registration is open
+
+- name: 12th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2019
+  location: Xi'an, China
+  dates: "April 22-27, 2019"
+  url: http://icst2019.xjtu.edu.cn?utm_source=testingconferences
+  twitter: icstconference
+
+- name: SauceCon 2019
+  location: Austin, TX, USA
+  dates: "April 24-25, 2019"
+  url: http://saucecon.com/?utm_source=testingconferences
+  twitter: saucelabs
+  status: Registration is open
+
+- name: STAREAST 2019
+  location: Orlando, Florida, USA
+  dates: "April 28-May 3, 2019"
+  url: https://stareast.techwell.com/speak-stareast?utm_source=testingconferences
+  twitter: TechWell
+  status: CFP is Open until September 9, 2019
+
+- name: IEEE DTS 2019
+  location: Gammarth, Tunisia
+  dates: "April 28-May 1, 2019"
+  url: http://www.dts-conf.org/?utm_source=testingconferences
+  status: CFP is Closed
+
+- name: Yerevan Testing Days 2019
+  location: Yerevan, Armenia
+  dates: "April 29-May 1, 2019"
+  url: https://evntestingdays.com?utm_source=testingconferences
+  twitter: evntestingdays
+
+- name: TestingUY 2019
+  location: Montevideo, Uruguay
+  dates: "May 13-14, 2019"
+  url: http://testinguy.org?utm_source=testingconferences
+  twitter: testingUY
+  status: CFP is Open until March 17, 2019
+
+- name: QAI QUEST 2019
+  location: Chicago, IL, USA
+  dates: "May 13-17, 2019"
+  url: http://qaiquest.org/2019/?utm_source=testingconferences
   twitter: QAIquest
 
-- name: STAREAST 2016
-  location: Orlando, FL, USA
-  dates: "May 1-6, 2016"
-  url: http://stareast.techwell.com/
-  twitter: techwell
+- name: WeTest.Athens 2019
+  location: Athens, Greece, GR
+  dates: "May 17, 2019"
+  url: https://wetest-athens.gr/?utm_source=testingconferences
+  twitter: WetestA
+  status: Registration is open
 
-- name: Let's Test 2016
-  location: Stockholm, Sweden
-  dates: "May 23-25, 2016"
-  url: http://lets-test.com/
-  twitter: LetsTest_Conf
-  
-- name: Nordic Testing Days 2016
-  location: Tallin, Estonia
-  dates: "June 1-3, 2016"
-  url: http://www.nordictestingdays.eu/
-  twitter: nordictestdays
-
-- name: London Tester Gathering Workshops 2016
+- name: National Software Testing Conference 2019
   location: London, England
-  dates: "June 2-3, 2016"
-  url: https://skillsmatter.com/conferences/7219-london-tester-gathering-workshops-2016
-  twitter: LTGWorkshops
+  dates: "May 21-22, 2019"
+  url: http://www.softwaretestingconference.com/?utm_source=testingconferences
+  twitter: testmagazine
+  status: Registration is open
 
-- name: CAST 2016
-  location: Vancouver, BC, Canada
-  dates: "August 8-10, 2016"
-  url: http://us2.campaign-archive2.com/?u=bcd81e69d2b3451e4cc5d1f57&id=913dd472cb
+- name: TestBash Netherlands 2019
+  location: Utrecht, NL
+  dates: "May 23-24, 2019"
+  url: https://ti.to/mot/testbash-netherlands-2019?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is open
+
+- name: Accelerate San Francisco (formerly Quality Jam)
+  location: San Francisco, CA, USA
+  dates: "May 23-24, 2019"
+  url: https://www.qualityjam.com/atlanta/?utm_source=testingconferences
+  twitter: Tricentis
+
+- name: Secure Guild Online Conference 2019
+  location: Online
+  dates: "May 23-24, 2019"
+  url: https://guildconferences.com/product/secure-guild-2019-event-ticket/?utm_source=testinconferences.org
+  twitter: AutomationGuild
+  status: Registration is open
+
+- name: Australian Test & Tech Automation Conference (ATTAC) 2019
+  location: Melbourne CBD, AUS
+  dates: "May 24, 2019"
+  url: http://attac.tech/?utm_source=testinconferences.org
+  status: CFP is open until February 28, 2019
+
+- name: Nordic Testing Days (NTD) 2019
+  location: Tallinn, Estonia
+  dates: "May 29-31, 2019"
+  url: http://nordictestingdays.eu/?utm_source=testingconferences
+  twitter: nordictestdays
+  status: Registration is open
+
+- name: TestingCup 2019
+  location: Poznań, Poland
+  dates: "June 10-11, 2019"
+  url: http://testingcup.pl/index.html?utm_source=testingconferences
+  twitter: TestingCup
+  status: CFP is open
+
+- name: Test & Quality
+  location: Copenhagen, Denmark
+  dates: "June 11-12, 2019"
+  url: https://dstb.dk/konference-2019/?utm_source=testingconferences
+  twitter: DSTB_dk
+  status: Registration opens soon
+
+- name: AI and Automation for Mobile Banking and E-commerce 2019
+  location: London, UK
+  dates: "June 12, 2019"
+  url: https://www.qa-financial.com/events/qa-automation-for-mobiles-apps-london-2019?utm_source=testingconferences
+  status: Registration is open
+
+- name: Romanian Testing Conference (RTC) 2019
+  location: Cluj-Napoca, Romania
+  dates: "June 12-14, 2019"
+  url: https://www.romaniatesting.ro?utm_source=testingconferences
+  twitter: romaniatesting
+  status: CFP is closed
+
+- name: AppiumConf 19
+  location: Bengaluru, India
+  dates: "June 13-15, 2019"
+  url: https://appiumconf.com/?utm_source=testingconferences
+  twitter: appium_conf
+  status: Registration is open
+
+- name: expo:QA'19
+  location: Madrid, Spain
+  dates: "June 17-19, 2019"
+  url: http://www.expoqa.com?utm_source=testingconferences
+  twitter: expoQA
+  status: CFP is Closed
+
+- name: Test Automation Day 2019
+  location: Utrecht, Netherlands
+  dates: "June 19-20, 2019"
+  url: http://www.testautomationday.com?utm_source=testingconferences
+  twitter: automation_day
+  status: CFP is Open
+
+- name: Agile Testing Days USA 2019
+  location: Chicago, IL, USA
+  dates: "June 23-28, 2019"
+  url: http://agiletestingdays.us/?utm_source=testingconferences
+  twitter: AgileTDUSA
+  status: CFP is Closed
+
+- name: Test Leadership Congress 2019
+  location: New York, NY, USA
+  dates: "June 26-28, 2019"
+  url: http://testleadershipcongress-ny.com/?utm_source=testingconferences
+  twitter: TestMastersAcad
+  status: CFP is open until March 1, 2019
+
+- name: London Tester Gathering Workshops 2019
+  location: London, UK
+  dates: "June 26-28, 2019"
+  url: https://ti.to/mot/london-tester-gathering-workshops-2019?source=testingconferences
+  twitter: ministryoftest
+  status: Registration is open
+
+- name: International Symposium on Software Testing and Analysis (ISSTA) 2019
+  location: Beijing, China
+  dates: "July 15-29, 2019"
+  url: http://conf.researchr.org/home/issta-2019?utm_source=testingconferences
+  twitter: issta_conf
+
+- name: IEEE International Workshop on Combinatorial Testing and its Applications (CTA) 2019
+  location: Prague, Czech Republic
+  dates: "July 22-26, 2019"
+  url: http://paris.utdallas.edu/cta19/?utm_source=testingconferences
+
+- name: Conference for the Association for Software Testing (CAST) 2019
+  location: Cocoa Beach, FL, USA
+  dates: "August 12-15, 2019"
+  url: https://www.associationforsoftwaretesting.org/conference/cast2019/?utm_source=testingconferences
   twitter: AST_News
+  status: CFP is Closed
+
+- name: STeP-IN SUMMIT 2019 Bangalore
+  location: Bangalore, India
+  dates: "August 22-23, 2019"
+  url: https://stepinsummit.stepinforum.org?utm_source=testingconferences
+  twitter: stepin_forum
+  status: Registration is open
+
+- name: TestBash Germany 2019
+  location: Munich, Germany
+  dates: "September 12-13, 2019"
+  url: https://ministryoftesting.com/events/testbash-germany-2019?utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Closed
+
+- name: DevTEST Conference NORTH 2019
+  location: Leeds, England
+  dates: "September 24-25, 2019"
+  url: https://www.softwaretestingnews.co.uk/products/devtest-conference-north/?utm_source=testingconferences
+  twitter: testmagazine
+  status: Registration is open
+
+- name: SEETEST 2019
+  location: Bucharest, Romania
+  dates: "September 26-27, 2019"
+  url: https://seetest.org/?utm_source=testingconferences
+  twitter: SEETESTConf
+  status: Registration is open
+
+- name: STARWEST 2019
+  location: Anaheim, CA, USA
+  dates: "September 29-October 4, 2019"
+  url: https://starwest.techwell.com/?utm_source=testingconferences
+  twitter: techwell
+  status: Registration is open
+
+- name: TestBash Manchester 2019
+  location: Manchester, UK
+  dates: "October 2-3, 2019"
+  url: https://ministryoftesting.com/events/testbash-manchester-2019?utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Open until February 28th, 2019
+
+- name: Test.bash(); 2019
+  location: Manchester, UK
+  dates: "October 4, 2019"
+  url: https://ministryoftesting.com/events/test-dot-bash-2019?utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Open until February 28th, 2019
+
+- name: SeleniumConf London 2019
+  location: London, UK
+  dates: "October 7-8, 2019"
+  url: https://2019.seleniumconf.co.uk
+  status: CFP is Open until April 1st, 2019
+
+- name: The QA Financial Forum Paris 2019
+  location: Paris, FR
+  dates: "October 9, 2019"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-paris-2019?utm_source=testingconferences
+  status: Registration is open
+
+- name: TestExpo 2019
+  location: London, UK
+  dates: "October 17, 2019"
+  url: http://conference.unicom.co.uk/testexpo/2019/london/?utm_source=testingconferences
+  status: CFP is open
+
+- name: STARCANADA 2019
+  location: Toronto, Canada
+  dates: "October 20-25, 2019"
+  url: http://starcanada.techwell.com/
+  twitter: techwell
+  status: CFP is Open until March 3, 2019
+
+- name: TestBash Australia 2019
+  location: Sydney, Aus
+  dates: "October 24-25, 2019"
+  url: https://ministryoftesting.com/events/testbash-australia-2019?utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Open until February 28th, 2019
+
+- name: TestBash New Zealand 2019
+  location: Wellington, NZ
+  dates: "October 29, 2019"
+  url: https://ministryoftesting.com/events/testbash-new-zealand-2019?utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Open until March 8th, 2019
+
+- name: Software-QS-Tag 2019
+  location: Frankfurt am Main, Germany
+  dates: "October 24-25, 2019"
+  url: https://www.qs-tag.de/en/
+  twitter: qstag
+  status: CFP is open until April, 30th, 2019
+
+- name: Agile Testing Days 2019
+  location: Potsdam, Germany
+  dates: "November 3-8, 2019"
+  url: http://www.agiletestingdays.com/?utm_source=testingconferences
+  twitter: AgileTD
+  status: CFP Open until April 2018
   
-- name: Testival eu
-  location: Rijeka, Croatia
-  dates: "September 16-September 17, 2016"
-  url: http://www.testival.eu/
-  twitter: testivaleu
-  
+- name: TestBash San Francisco 2019
+  location: San Francisco, USA
+  dates: "November 6-7, 2019"
+  url: https://ministryoftesting.com/events/testbash-san-francisco-2019?utm_source=testingconferences
+  twitter: ministryoftest
+  status: CFP is Open until March 15th, 2019
+
+- name: Testing United 2019
+  location: Vienna, Austria
+  dates: "November 7-8, 2019"
+  url: https://testingunited.com?utm_source=testingconferences
+  twitter: testing_united
+  status: CFP is Open
+
+- name: EuroSTAR 2019
+  location: Prague, Czech Republic
+  dates: "November 11-14, 2019"
+  url: https://eurostarsoftwaretesting.com?utm_source=testingconferences
+  twitter: esconfs
+  status: CFP is Closed
+
+- name: The QA Financial Forum New York 2019
+  location: New York, NY USA
+  dates: "November 13, 2019"
+  url: https://www.qa-financial.com/events/the-qa-financial-forum-new-york-2019?utm_source=testingconferences
+  status: Registration is open
+
+- name: The QA E-commerce Forum New York 2019
+  location: New York, NY USA
+  dates: "November 14, 2019"
+  url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-new-york-2019?utm_source=testingconferences
+  status: Registration is open
+
+- name: ConTEST NYC 2019
+  location: New York, NY, USA
+  dates: "November 20-22 2019"
+  url: http://contest-nyc.testmastersacademy.org/?utm_source=testingconferences
+  twitter: TestMastersAcad
+  status: CFP is Open until April 20th, 2019
+
+- name: The QA E-commerce Forum London 2019
+  location: London, UK
+  dates: "December 11, 2019"
+  url: https://www.qa-financial.com/events/the-qa-e-commerce-forum-london-2019?utm_source=testingconferences
+  status: Registration is open
